@@ -32,5 +32,5 @@ My experience spans **Python, C, embedded systems, and computer architecture**, 
 
 ## Currently
 - Building a personal portfolio website
-- Preparing for **software engineering internships**
+- Looking for **software engineering internships**
 
