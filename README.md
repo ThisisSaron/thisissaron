@@ -1,4 +1,4 @@
-# Hi, I’m Saron 
+# Hi, I’m Saron!
 
 I’m a **Computer Science student** with strong interests in **systems programming, software engineering, and applied computing**. I enjoy working close to the fundamentals, understanding how things work under the hood, and applying those ideas to real-world projects.
 
